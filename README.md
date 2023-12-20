@@ -29,4 +29,4 @@
 - animated wallpapers
 - more...
 
-## This is an open source project so everyone if free to contribute to it.
+### This is an open source project so everyone if free to contribute to it.
