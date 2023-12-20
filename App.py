@@ -99,7 +99,7 @@ style = ThemedStyle(root)
 style.set_theme("arc")
 
 def open_github():
-    webbrowser.open("https://github.com/C0MPL3Xscs/SonicWallpapers")
+    webbrowser.open("https://github.com/C0MPL3Xscs/Desktop-Wallpaper-Generator")
 
 def open_PayPal():
     webbrowser.open("https://paypal.me/SamuelSampaio13")
